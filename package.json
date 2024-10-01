@@ -1,0 +1,21 @@
+{
+  "name": "@ltv/apollo-server-integration-hono",
+  "version": "0.0.1",
+  "description": "Apollo Server integration for Hono",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@apollo/server": "4.11.0",
+    "@types/bun": "latest",
+    "graphql": "16.9.0",
+    "hono": "4.6.3",
+    "tsup": "8.3.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
