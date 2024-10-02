@@ -1,5 +1,5 @@
 {
-  "name": "@ltv/apollo-server-integration-hono",
+  "name": "apollo-server-integration-hono",
   "version": "0.0.1",
   "description": "Apollo Server integration for Hono",
   "main": "dist/index.cjs",
